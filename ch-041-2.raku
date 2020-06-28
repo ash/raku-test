@@ -4,6 +4,8 @@
 # Task 2 from
 # https://perlweeklychallenge.org/blog/perl-weekly-challenge-041/
 
+# Comments: https://andrewshitov.com/2020/06/28/practicing-raku-challenges/
+
 multi sub L(0) { 1 }
 multi sub L(1) { 1 }
 

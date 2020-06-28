@@ -3,6 +3,7 @@
 # Task 1 from
 # https://perlweeklychallenge.org/blog/perl-weekly-challenge-040/
 
+# Comments: https://andrewshitov.com/2020/06/28/practicing-raku-challenges/
 # See also https://andrewshitov.com/2020/03/16/a-couple-of-syntax-sweets-in-raku/
 
 my @a = < I L O V E Y O U >;

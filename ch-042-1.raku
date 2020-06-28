@@ -3,7 +3,8 @@
 # Task 1 from
 # https://perlweeklychallenge.org/blog/perl-weekly-challenge-042/
 
-# Also see https://andrewshitov.com/2019/09/09/presenting-integers-as-binary-octal-and-hex-using-perl-6/
+# Comments: https://andrewshitov.com/2020/06/28/practicing-raku-challenges/
+# See also https://andrewshitov.com/2019/09/09/presenting-integers-as-binary-octal-and-hex-using-perl-6/
 
 say "Decimal $_ = Octal {$_.base(8)}" for ^50;
 
