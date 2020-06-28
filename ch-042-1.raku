@@ -5,9 +5,7 @@
 
 # Also see https://andrewshitov.com/2019/09/09/presenting-integers-as-binary-octal-and-hex-using-perl-6/
 
-for ^50 {
-    say "Decimal $_ = Octal {$_.base(8)}";
-}
+say "Decimal $_ = Octal {$_.base(8)}" for ^50;
 
 # Output: 
 
