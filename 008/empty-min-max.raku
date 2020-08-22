@@ -1,3 +1,6 @@
+my @a;
+say @a.min;
+
 say ().min; # Inf
 say ().max; # -Inf
 
